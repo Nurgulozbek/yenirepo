@@ -17,5 +17,8 @@ public class Class1 {
 
         //v4
         System.out.println("v4 kodları...");
+
+        //v5 kodları
+
     }
 }
