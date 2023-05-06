@@ -11,5 +11,8 @@ public class Class1 {
         //version 2 çalışmaları...
         int z = 4;
         System.out.println(x+y+z);
+
+        //v3
+        System.out.println("v3 kodları...");
     }
 }
