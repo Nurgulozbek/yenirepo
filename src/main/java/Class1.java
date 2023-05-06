@@ -7,5 +7,9 @@ public class Class1 {
         int y = 2;
         System.out.println(x+y);
         System.out.println("Version 1 icin islemler tamam");
+
+        //version 2 çalışmaları...
+        int z = 4;
+        System.out.println(x+y+z);
     }
 }
