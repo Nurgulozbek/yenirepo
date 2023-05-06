@@ -20,5 +20,7 @@ public class Class1 {
 
         //v5 kodları
 
+        //v6 için yeni kodlar
+
     }
 }
